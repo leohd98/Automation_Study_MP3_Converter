@@ -1,5 +1,5 @@
 First automation study using Selenium on Python.
-I made this program to help my mom to convert and donwload songs that she like from Youtube!
+I made this program to help my mom to convert and download songs that she like from Youtube!
 --------------------------------------------------------------------------------------------
 IMPORTANT: The program has a flaw.
 I use the code line 'time.sleep(time)' so the program can wait for the site to load, and for the song to be converted and downloaded.
